@@ -1,0 +1,101 @@
+id,name,position,department,years_experience
+1,Steven King,Product Manager,Executive,29
+2,Jennifer Hernandez,CMO,Human Resources,19
+3,Mary Thomas,Data Scientist,Marketing,13
+4,Emily Nelson,Project Manager,Customer Support,12
+5,Joseph Jones,CTO,Finance,8
+6,Richard Rodriguez,Chief Legal Officer,Engineering,5
+7,Barbara Garcia,Quality Assurance Engineer,Research and Development,17
+8,Linda Davis,VP of Engineering,Sales,16
+9,Emily Hernandez,Technical Writer,Operations,3
+10,Jennifer Taylor,Director of Operations,Legal,25
+11,Paul Hall,COO,Executive,2
+12,Emily Baker,CEO,Human Resources,28
+13,Amanda Young,IT Support Specialist,Marketing,4
+14,Betty Baker,Research Analyst,Customer Support,5
+15,Robert Martinez,Director of IT,Finance,21
+16,Donald Taylor,Director of HR,Engineering,6
+17,Nancy Walker,Financial Analyst,Research and Development,26
+18,Mary Hall,Legal Advisor,Sales,22
+19,Mary Rodriguez,VP of Marketing,Operations,14
+20,Robert Lopez,Director of Finance,Legal,20
+21,Barbara Wilson,Director of R&D,Executive,3
+22,Barbara Baker,Operations Coordinator,Human Resources,13
+23,Margaret Green,VP of Sales,Marketing,13
+24,Donald Hill,Software Engineer,Customer Support,20
+25,Mary Harris,CIO,Finance,15
+26,Mark King,Customer Service Representative,Engineering,17
+27,David Wilson,Marketing Specialist,Research and Development,9
+28,Andrew Allen,CFO,Sales,18
+29,Dorothy Anderson,Sales Executive,Operations,28
+30,Kimberly Baker,HR Specialist,Legal,1
+31,Nancy Robinson,Product Manager,Executive,22
+32,Barbara Thomas,CMO,Human Resources,24
+33,Daniel Carter,Data Scientist,Marketing,4
+34,Donald Miller,Project Manager,Customer Support,22
+35,Joseph Taylor,CTO,Finance,29
+36,Michelle Garcia,Chief Legal Officer,Engineering,18
+37,Jacob Clark,Quality Assurance Engineer,Research and Development,25
+38,James White,VP of Engineering,Sales,9
+39,Joshua Green,Technical Writer,Operations,25
+40,Michelle Anderson,Director of Operations,Legal,21
+41,William Miller,COO,Executive,11
+42,Kimberly King,CEO,Human Resources,4
+43,Nancy Hall,IT Support Specialist,Marketing,10
+44,Sarah Thompson,Research Analyst,Customer Support,14
+45,Linda Nelson,Director of IT,Finance,6
+46,Barbara Smith,Director of HR,Engineering,15
+47,Deborah Smith,Financial Analyst,Research and Development,1
+48,Donna Jones,Legal Advisor,Sales,24
+49,Sarah Taylor,VP of Marketing,Operations,29
+50,Robert King,Director of Finance,Legal,24
+51,Karen Martinez,Director of R&D,Executive,9
+52,Robert Nelson,Operations Coordinator,Human Resources,17
+53,Charles Martin,VP of Sales,Marketing,25
+54,Carol Martin,Software Engineer,Customer Support,6
+55,Sarah Walker,CIO,Finance,17
+56,Donald Baker,Customer Service Representative,Engineering,30
+57,Susan Rodriguez,Marketing Specialist,Research and Development,4
+58,Michelle Jackson,CFO,Sales,28
+59,John Moore,Sales Executive,Operations,21
+60,Emily Harris,HR Specialist,Legal,10
+61,Lisa Clark,Product Manager,Executive,27
+62,Betty Martinez,CMO,Human Resources,21
+63,Michael Martin,Data Scientist,Marketing,17
+64,Deborah Hill,Project Manager,Customer Support,20
+65,Melissa Moore,CTO,Finance,7
+66,Karen Martin,Chief Legal Officer,Engineering,5
+67,Robert Johnson,Quality Assurance Engineer,Research and Development,12
+68,Mark Anderson,VP of Engineering,Sales,25
+69,Jessica Smith,Technical Writer,Operations,6
+70,George Martinez,Director of Operations,Legal,18
+71,Steven Wilson,COO,Executive,25
+72,Ashley Allen,CEO,Human Resources,30
+73,Amanda White,IT Support Specialist,Marketing,17
+74,Jacob Brown,Research Analyst,Customer Support,30
+75,Charles Clark,Director of IT,Finance,1
+76,Sandra Lewis,Director of HR,Engineering,20
+77,Elizabeth Scott,Financial Analyst,Research and Development,11
+78,Andrew Williams,Legal Advisor,Sales,16
+79,Patricia Lewis,VP of Marketing,Operations,1
+80,John White,Director of Finance,Legal,4
+81,Dorothy Green,Director of R&D,Executive,30
+82,Barbara Allen,Operations Coordinator,Human Resources,12
+83,Donna Lee,VP of Sales,Marketing,29
+84,Joseph Hill,Software Engineer,Customer Support,27
+85,Robert Jones,CIO,Finance,26
+86,Carol Lopez,Customer Service Representative,Engineering,10
+87,Jacob Harris,Marketing Specialist,Research and Development,8
+88,Jennifer Miller,CFO,Sales,2
+89,Lisa Moore,Sales Executive,Operations,8
+90,Steven Rodriguez,HR Specialist,Legal,29
+91,George Hernandez,Product Manager,Executive,19
+92,Charles Young,CMO,Human Resources,3
+93,William White,Data Scientist,Marketing,3
+94,Charles Nelson,Project Manager,Customer Support,24
+95,Charles Wilson,CTO,Finance,16
+96,David King,Chief Legal Officer,Engineering,27
+97,Paul Jackson,Quality Assurance Engineer,Research and Development,3
+98,Susan Allen,VP of Engineering,Sales,25
+99,Kimberly Gonzalez,Technical Writer,Operations,18
+100,Melissa Nelson,Director of Operations,Legal,25
